@@ -3291,7 +3291,7 @@ input, select, textarea {
 		}
 
 			#wrapper > section > header:before {
-				background: #BDD3D2;
+				background: #000;
 				content: '';
 				display: block;
 				margin-top: 1rem;
@@ -3304,7 +3304,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					background: #BDD3D2;
+					background: #000;
 					content: '';
 					display: block;
 					height: 2px;
@@ -3313,7 +3313,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section > header h1:after, #wrapper > section > header h2:after {
-					background: #BDD3D2;
+					background: #000;
 					border-radius: 0.5rem;
 					content: '';
 					display: block;
